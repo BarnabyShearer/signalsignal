@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Sun 23 Nov 2014 18:02:43 GMT
+
+BeginCmp
+TimeStamp = /547323FC;
+Reference = C1;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472797A;
+Reference = C2;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547328C4;
+Reference = C3;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732907;
+Reference = C4;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732943;
+Reference = C5;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54732994;
+Reference = C6;
+ValeurCmp = 0.1µF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547212EB;
+Reference = IC1;
+ValeurCmp = ATTINY841-SSU;
+IdModule  = SMD_Packages:SOIC-14_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5465EF57;
+Reference = P1;
+ValeurCmp = CONN_01X32;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54730C80;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54730A54;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546730C7;
+Reference = RA1;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54674096;
+Reference = RA2;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673DC7;
+Reference = RA3;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /546740ED;
+Reference = RA4;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673DFE;
+Reference = RA5;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54674121;
+Reference = RA6;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673E52;
+Reference = RA7;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54674162;
+Reference = RA8;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673E87;
+Reference = RA9;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /546741A2;
+Reference = RA10;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673EBB;
+Reference = RA11;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /546741E7;
+Reference = RA12;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673EEE;
+Reference = RA13;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /5467422D;
+Reference = RA14;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54673F22;
+Reference = RA15;
+ValeurCmp = 8K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /5467426A;
+Reference = RA16;
+ValeurCmp = 2K×4;
+IdModule  = local:TC164;
+EndCmp
+
+BeginCmp
+TimeStamp = /54722BF3;
+Reference = U1;
+ValeurCmp = MCP23S17;
+IdModule  = SMD_Packages:SSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /54722EBA;
+Reference = U2;
+ValeurCmp = MCP23S17;
+IdModule  = SMD_Packages:SSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472C878;
+Reference = U3;
+ValeurCmp = TLC59281;
+IdModule  = SMD_Packages:SSOP-24;
+EndCmp
+
+BeginCmp
+TimeStamp = /54726AE1;
+Reference = U4;
+ValeurCmp = SNx5176;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472CFFB;
+Reference = U5;
+ValeurCmp = TLC59281;
+IdModule  = SMD_Packages:SSOP-24;
+EndCmp
+
+EndListe
