@@ -1,4 +1,4 @@
-(module Capacitor8x13RM3.8 (layer F.Cu) (tedit 54ABEA1B)
+(module Capacitor8x13RM3.8 (layer F.Cu) (tedit 54AC2BDF)
   (descr "Capacitor, pol, cyl 8x13mm")
   (fp_text reference C11 (at 5.08 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.25)))
@@ -15,8 +15,8 @@
   (fp_line (start 1.016 -3.937) (end -1.016 -3.937) (layer Dwgs.User) (width 0.15))
   (fp_line (start -1.016 -3.81) (end 1.016 -3.81) (layer Dwgs.User) (width 0.15))
   (fp_line (start -1.524 -3.683) (end 1.524 -3.683) (layer Dwgs.User) (width 0.15))
-  (pad 1 thru_hole rect (at 0 1.905) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 0 -1.905) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at 0 1.905) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 -1.905) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask))
   (model discret/Capacitor/cp_8x13mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 0.6))
