@@ -1395,12 +1395,12 @@
     )
   )
 
-  (module local:SELF-WE-PD3S (layer F.Cu) (tedit 54AC2D48) (tstamp 54ABEE54)
+  (module local:SELF-WE-PD3S (layer F.Cu) (tedit 54AC4333) (tstamp 54ABEE54)
     (at 130.175 125.095 270)
     (descr "SELF WE-PD3S")
     (path /54AAE2D8)
     (attr smd)
-    (fp_text reference L1 (at 0 3.81 450) (layer F.SilkS)
+    (fp_text reference L1 (at 5.08 0 540) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.25)))
     )
     (fp_text value 220µH (at 0.889 -0.381 360) (layer F.SilkS) hide
