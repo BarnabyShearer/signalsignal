@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Fri 02 Jan 2015 17:56:56 GMT
+Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Tue 06 Jan 2015 13:59:44 GMT
 
 BeginCmp
 TimeStamp = /54A5DC31;
@@ -57,17 +57,31 @@ IdModule  = local:SMD-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /54A5DB82;
+TimeStamp = /54AAF1A5;
 Reference = C9;
-ValeurCmp = 0.33µF;
+ValeurCmp = 100µF;
+IdModule  = local:Capacitor5x11RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAFA12;
+Reference = C10;
+ValeurCmp = 470pF;
 IdModule  = local:SMD-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /54A5DB24;
-Reference = C10;
-ValeurCmp = 0.1µF;
-IdModule  = local:SMD-0805;
+TimeStamp = /54AB0A14;
+Reference = C11;
+ValeurCmp = 470µF;
+IdModule  = local:Capacitor8x13RM3.8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AB0D39;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Vertical_AnodeUp;
 EndCmp
 
 BeginCmp
@@ -75,6 +89,13 @@ TimeStamp = /547212EB;
 Reference = IC1;
 ValeurCmp = ATTINY841-SSU;
 IdModule  = local:SOIC-14_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAE2D8;
+Reference = L1;
+ValeurCmp = 220µH;
+IdModule  = local:SELF-WE-PD3S;
 EndCmp
 
 BeginCmp
@@ -141,6 +162,27 @@ IdModule  = local:SMD-0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /54AAECEB;
+Reference = R5;
+ValeurCmp = 0.33;
+IdModule  = local:SMD-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAFCB1;
+Reference = R6;
+ValeurCmp = 1.2k;
+IdModule  = local:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAFBD9;
+Reference = R7;
+ValeurCmp = 3.8k;
+IdModule  = local:SMD-0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /5472CFFB;
 Reference = U1;
 ValeurCmp = TLC5928;
@@ -176,10 +218,10 @@ IdModule  = local:SOIC-8-N;
 EndCmp
 
 BeginCmp
-TimeStamp = /54A5D491;
+TimeStamp = /54AAE86A;
 Reference = U6;
-ValeurCmp = 7805;
-IdModule  = local:SOT89-3;
+ValeurCmp = MC34063;
+IdModule  = local:SOIC-8-N;
 EndCmp
 
 BeginCmp
